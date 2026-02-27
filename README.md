@@ -1,4 +1,16 @@
-# DevOps Assignment
+# DevOps Assignment – AWS Deployment
+
+Frontend URL:
+http://3.110.80.225:3000
+
+Backend URL:
+http://3.110.80.225:8000
+
+Health Endpoint:
+http://3.110.80.225:8000/api/health
+
+---
+
 
 This project consists of a FastAPI backend and a Next.js frontend that communicates with the backend.
 
