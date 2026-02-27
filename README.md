@@ -3,11 +3,11 @@
 Frontend URL:
 http://3.110.80.225:3000
 
-Backend URL:
-http://3.110.80.225:8000
-
-Health Endpoint:
+Backend Health Endpoint:
 http://3.110.80.225:8000/api/health
+
+Backend Message Endpoint:
+http://3.110.80.225:8000/api/message
 
 ---
 
